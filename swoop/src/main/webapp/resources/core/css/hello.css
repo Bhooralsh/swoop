@@ -1,0 +1,14 @@
+.checkbox-inline label, .radio-inline label{
+  font-weight: normal;
+}
+body
+{
+	margin: 0;
+	padding:0;
+	background:url(image1.png);
+	background-szie:cover;
+	background-position:center;
+	font-family:sans-serif;
+	
+	
+}
